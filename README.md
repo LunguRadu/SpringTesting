@@ -1,7 +1,7 @@
 # Spring Pet Clinic Tests
 
 
-This source code repository contains JUnit 5 and Spring Framework Testing examples.
+This source code repository contains JUnit 5 and Spring Framework Testing examples. The main source code was retrieved from https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO
 
 ## Setup
 ### Requirements
